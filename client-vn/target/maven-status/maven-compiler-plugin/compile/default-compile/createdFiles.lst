@@ -1,0 +1,9 @@
+com\example\ConfigGenerator.class
+com\example\DbUpdater.class
+com\example\properties\StreamProperties.class
+com\example\properties\MongoProperties.class
+com\example\ClientApplication.class
+com\example\UpdateHandler.class
+com\example\MongoConnector.class
+com\example\properties\OdlProperties.class
+com\example\SocketHandler.class

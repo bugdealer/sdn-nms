@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.example.ClientApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.44 sec <<< FAILURE! - in com.example.ClientApplicationTests
+test(com.example.ClientApplicationTests)  Time elapsed: 0.01 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.example.MongoConnector.getMongoClient(MongoConnector.java:20)
+	at com.example.ClientApplicationTests.test(ClientApplicationTests.java:58)
+
